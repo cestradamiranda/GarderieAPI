@@ -1,0 +1,5 @@
+C:\Users\DayiCarly\Documents\Visual Studio 2015\Projects\WebAPITest\Garderie\obj\Debug\Garderie.csprojResolveAssemblyReference.cache
+C:\Users\DayiCarly\Documents\Visual Studio 2015\Projects\WebAPITest\Garderie\bin\Debug\Garderie.dll
+C:\Users\DayiCarly\Documents\Visual Studio 2015\Projects\WebAPITest\Garderie\bin\Debug\Garderie.pdb
+C:\Users\DayiCarly\Documents\Visual Studio 2015\Projects\WebAPITest\Garderie\obj\Debug\Garderie.dll
+C:\Users\DayiCarly\Documents\Visual Studio 2015\Projects\WebAPITest\Garderie\obj\Debug\Garderie.pdb

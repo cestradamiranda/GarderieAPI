@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPITest", "WebAPITest\WebAPITest.csproj", "{96033C63-134B-4BCF-980C-8613EB653222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garderie", "Garderie\Garderie.csproj", "{2104D565-BFA0-46ED-992A-FC65093107D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96033C63-134B-4BCF-980C-8613EB653222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96033C63-134B-4BCF-980C-8613EB653222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96033C63-134B-4BCF-980C-8613EB653222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96033C63-134B-4BCF-980C-8613EB653222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2104D565-BFA0-46ED-992A-FC65093107D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2104D565-BFA0-46ED-992A-FC65093107D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2104D565-BFA0-46ED-992A-FC65093107D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2104D565-BFA0-46ED-992A-FC65093107D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
