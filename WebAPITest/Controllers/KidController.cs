@@ -11,10 +11,7 @@ namespace WebAPITest.Controllers
 {
     public class KidController : ApiController
     {
-
-      
-
-
+        
         [HttpGet]
         public IEnumerable<Kid> GetAllKids() {
 
