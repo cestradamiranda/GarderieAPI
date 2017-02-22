@@ -18,9 +18,7 @@ namespace Garderie
         private Group group;
 
         public Kid() { }
-
-
-
+        
         public string Name
         {
             get

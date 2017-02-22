@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Garderie
 {
-    public class Garderie
+    public class GarderieClass
     {
+        private int id;
         private string name;
         private string address;
-        private List<Teacher> teachers;
-        private List<Group> groups;
+        private string city;
 
-        public Garderie() { }
+        public GarderieClass() { }
 
         public string Name
         {
@@ -41,33 +41,7 @@ namespace Garderie
             }
         }
 
-        public List<Teacher> Teachers
-        {
-            get
-            {
-                return teachers;
-            }
-
-            set
-            {
-                teachers = value;
-            }
-        }
-
-        public List<Group> Groups
-        {
-            get
-            {
-                return groups;
-            }
-
-            set
-            {
-                groups = value;
-            }
-        }
-
-       
+        
 
 
 
