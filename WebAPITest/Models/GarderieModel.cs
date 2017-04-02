@@ -16,6 +16,7 @@ namespace WebAPITest.Models
 
         public static GarderieClass GetGarderieInfo() {
 
+
             var con = ConfigurationManager.ConnectionStrings["Data Source=.\'SQLEXPRESS;Initial Catalog=garderie;Integrated Security=True;MultipleActiveResultSets=True"].ToString();
 
             GarderieClass myGarderie = new GarderieClass();
